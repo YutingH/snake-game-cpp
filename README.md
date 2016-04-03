@@ -23,3 +23,5 @@ Simple implementation of chess game in Scala programming language.
 ### Dependencies ###
 
 To compile and run Ataraxer Snake you need to have OpenGL and GLUT installed on your system.
+
+## Documentation for Yuting
